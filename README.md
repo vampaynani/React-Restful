@@ -1,4 +1,5 @@
-# RESTful barebone
+# React RESTful
+
 ## Getting started
 
 The intention of this project is to provide the student with a simple base with which to start a RESTful project that serves its interests. 
